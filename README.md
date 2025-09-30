@@ -1,5 +1,11 @@
 # opencart-manual-testing
-Manual testing project for OpenCart E-commerce web application. Covers functional, UI/UX, regression, and compatibility testing. Includes test plans, test cases, bug reports, and execution results to ensure smooth shopping, checkout, and admin workflows.
+Manual testing project for OpenCart E-commerce web application. Covers functional, UI/UX, regression, and compatibility testing. 
+Includes 
+        - Test plans,
+        - Test Scenario,
+        - Test cases, 
+        - Bug reports,
+        - Execution results to ensure smooth shopping, checkout, and admin workflows.
 # OpenCart — Manual Testing Project
 
 **Author:** HARISHKUMAR M  
@@ -23,11 +29,12 @@ The goal was to design, execute, and document test cases for key user flows.
 ---
 
 ## 📂 Files in this Repository
-- `OpenCart-TestCases1.xlsx` → Detailed test scenarios & cases  
-- `BugReport.xlsx` → Sample bug tracker (with bug ID, severity, priority, status)  
-- `TestPlan.md` / `TestPlan.pdf` → Test Plan (Markdown + polished PDF)  
-- `TestSummary.md` / `TestSummary.pdf` → Test Execution Summary (Markdown + PDF)  
-- `README.md` → Project overview (this file)  
+- `OpenCart-TestCases.xlsx` → Detailed test cases
+- `Test Scenario.xlsx` → Sample bug tracker
+- `BugReport.xlsx` → Sample bug tracker   
+- `TestPlan.md` / `TestPlan.pdf` → Test Plan 
+- `TestSummary.md` / `TestSummary.pdf` → Test Execution Summary 
+- `README.md` → Project overview 
 
 ---
 
