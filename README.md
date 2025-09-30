@@ -4,7 +4,8 @@ Manual testing project for OpenCart E-commerce web application. Covers functiona
 
 **Author:** HARISHKUMAR M  
 **Role:** Manual Tester 
-**Contact:** harishmatheeswaran.@gmail.com | LinkedIn: https://linkedin.com/in/harishkumar-QA/ 
+**Contact:** harishmatheeswaran.@gmail.com |
+LinkedIn: https://linkedin.com/in/harishkumar-QA/ 
 
 ---
 
