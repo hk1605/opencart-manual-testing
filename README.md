@@ -33,11 +33,11 @@ The goal was to design, execute, and document test cases for key user flows.
 ---
 
 ## 📂 Files in this Repository
-- `OpenCart-TestCases.xlsx` → Detailed test cases
-- `Test Scenario.xlsx` → high-level test scenarios
-- `BugReport.xlsx` →  Bug Details   
 - `TestPlan.md` / `TestPlan.pdf` → Test Plan 
-- `TestSummary.md` / `TestSummary.pdf` → Test Execution Summary 
+- `Test Scenario.xlsx` → high-level test scenarios
+- `TestCases.xlsx` → Detailed test cases
+- `TestReport.xlsx`  → Test Execution Summary
+- `BugReport.xlsx` →  Bug Details 
 - `README.md` → Project overview 
 
 ---
