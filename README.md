@@ -24,7 +24,7 @@ The goal was to design, execute, and document test cases for key user flows.
 - Login / Logout  
 - Product Search
 - Product Compare
-- Prduct Display Page
+- Product Display Page
 - Add to Cart
 - Wishlist
 - Shopping Cart 
