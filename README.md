@@ -22,8 +22,12 @@ The goal was to design, execute, and document test cases for key user flows.
 ### Modules Tested
 - User Registration  
 - Login / Logout  
-- Product Search  
-- Add to Cart  
+- Product Search
+- Product Compare
+- Prduct Display Page
+- Add to Cart
+- Wishlist
+- Shopping Cart 
 - Checkout  
 
 ---
